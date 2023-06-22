@@ -1,0 +1,24 @@
+/* Estilos Carrusel */
+
+/* Es en este archivo en el que debemos modificar las url de las imagenes, 
+cada una de las url representa la ruta hacia cada una de las imagenes, unicamente hay
+que modificar la ruta con la nueva ruta de nuestro personaje.
+
+    background: url("") center no-repeat;
+
+la nueva ruta debe estar dentro de las comillas
+
+*/
+
+
+.carrusel-img {
+    background: url("https://i.pinimg.com/736x/21/fc/0c/21fc0c0db70857a9ed79897959dfdc02.jpg") center no-repeat;
+}
+
+.carrusel-img1 {
+    background: url("https://img.freepik.com/vector-premium/disenador-web-programador-que-trabaja-computadora-escritorio-mujer-dibujos-animados-codificando-diferentes-lenguajes-programacion_102902-7000.jpg") center no-repeat;
+}
+
+.carrusel-img2 {
+    background: url("https://media.istockphoto.com/id/1403644222/es/foto/la-ilustraci%C3%B3n-muestra-el-enrutamiento-de-paquetes-ip-a-trav%C3%A9s-de-internet-una-computadora-lan.jpg?b=1&s=170667a&w=0&k=20&c=SB4UEzDO53CuY2hT4f0xEU4UQbV1J2lUNK-sZjfdg24=") center no-repeat;
+}
